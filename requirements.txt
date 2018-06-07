@@ -1,0 +1,4 @@
+google-cloud-texttospeech==0.1.0
+boto3
+awscli
+gTTS
